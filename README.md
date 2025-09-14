@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Avishek ⚓
+Second Mate → transitioning to **Maritime Data Operations**.  
+I build small, practical tools around vessel reporting, ETA, and data quality.
 
-<!--
-**Avishek-Seacode/Avishek-Seacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📍 Mumbai / Chennai / WFH
+- 💼 Open to: Data Ops / Voyage Optimization / Maritime Analytics
+- 🛠️ Tech: **SQL · Python · Pandas · Excel** (learning fast), basics of Git/GitHub
+- 🚢 Domain: Noon reports, voyage planning, audits, port calls
 
-Here are some ideas to get you started:
+## Projects
+- **Voyage Planner** – CSV → ETA (UTC-safe), handles speed=0, sample data & tests  
+  👉 [github.com/Avishek-Seacode/voyage_planner](https://github.com/Avishek-Seacode/voyage_planner)
+- **Arrival Report** – Arrival/port-call validation + weekly summary (CSV/Excel)  
+  👉 (add link after you upload) `github.com/Avishek-Seacode/arrival-report`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm doing now
+- Converting real ship workflows into small data tools
+- Practicing SQL/Python daily and documenting learning on GitHub
+
+## Contact  
+- [LinkedIn](https://www.linkedin.com/in/avishek-saha-099573137)  
+- [Email](mailto:avishek.saha19@yahoo.com)
